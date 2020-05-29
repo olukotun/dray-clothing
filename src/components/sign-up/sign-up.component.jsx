@@ -89,7 +89,7 @@ class SignUp extends Component{
                      
                     <FormInput 
                     type='password'
-                    name='confrimPassword'
+                    name='confirmPassword'
                     value={confirmPassword}
                     onChange={this.handleChange}
                     label='confirmPassword'
