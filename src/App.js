@@ -12,6 +12,9 @@ import {setCurrentUser} from './redux/user/user.action';
 import {selectCurrentUser} from './redux/user/user.selector'
 import Checkoutpage from './pages/checkout/checkout.component';
 
+
+
+// I am bringing up a new branch
 class App extends React.Component {
 unsubscribeFromAuth = null;
 
